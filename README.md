@@ -67,3 +67,7 @@ The Contact Book project is designed to store and manage contact information, in
    - Search for contacts by name or phone number
    - Update contact details
    - Delete a contact
+
+## Author
+Bibek Bhandari
+GitHub:https://github.com/abhinavbibek
